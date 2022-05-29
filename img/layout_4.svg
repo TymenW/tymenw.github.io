@@ -1,0 +1,18 @@
+<svg width="1440" height="800" viewBox="0 0 1440 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<rect vector-effect="non-scaling-stroke" x="0.5" y="0.5" width="1440" height="800" fill="#010203"/>
+
+<line vector-effect="non-scaling-stroke" x1="39" y1="800" x2="39" y2="-0.00012207" stroke="#2070FA" stroke-width="1"/>
+<line vector-effect="non-scaling-stroke" x1="349" y1="800" x2="349" y2="-0.00012207" stroke="#2070FA" stroke-width="1"/>
+<line vector-effect="non-scaling-stroke" x1="389" y1="800" x2="389" y2="-0.00012207" stroke="#2070FA" stroke-width="1"/>
+<line vector-effect="non-scaling-stroke" x1="699" y1="800" x2="699" y2="-0.00012207" stroke="#2070FA" stroke-width="1"/>
+<line vector-effect="non-scaling-stroke" x1="739" y1="800" x2="739" y2="-0.00012207" stroke="#2070FA" stroke-width="1"/>
+<line vector-effect="non-scaling-stroke" x1="1049" y1="800" x2="1049" y2="-0.00012207" stroke="#2070FA" stroke-width="1"/>
+<line vector-effect="non-scaling-stroke" x1="1089" y1="800" x2="1089" y2="-0.00012207" stroke="#2070FA" stroke-width="1"/>
+<line vector-effect="non-scaling-stroke" x1="1399" y1="800" x2="1399" y2="-0.00012207" stroke="#2070FA" stroke-width="1"/>
+
+<rect vector-effect="non-scaling-stroke" x=".5" y=".5" width="1439" height="799" stroke="#C6C6D6" stroke-width="1"/>
+<defs>
+
+</defs>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="1440" height="800" viewBox="0 0 1440 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<rect vector-effect="non-scaling-stroke" x="0.5" y="0.5" width="1439" height="799" fill="#010203"/>
+
+<line vector-effect="non-scaling-stroke" x1="39" y1="800" x2="39" y2="-0.00012207" stroke="#2070FA" stroke-width="1"/>
+<line vector-effect="non-scaling-stroke" x1="466" y1="800" x2="466" y2="-0.00012207" stroke="#2070FA" stroke-width="1"/>
+<line vector-effect="non-scaling-stroke" x1="506" y1="800" x2="506" y2="-0.00012207" stroke="#2070FA" stroke-width="1"/>
+<line vector-effect="non-scaling-stroke" x1="933" y1="800" x2="933" y2="-0.00012207" stroke="#2070FA" stroke-width="1"/>
+<line vector-effect="non-scaling-stroke" x1="973" y1="800" x2="973" y2="-0.00012207" stroke="#2070FA" stroke-width="1"/>
+<line vector-effect="non-scaling-stroke" x1="1399" y1="800" x2="1399" y2="-0.00012207" stroke="#2070FA" stroke-width="1"/>
+
+<rect vector-effect="non-scaling-stroke" x="0.5" y="0.5" width="1439" height="799" stroke="#C6C6D6"/>
+<defs>
+</defs>
+</svg>

@@ -1,0 +1,23 @@
+<svg width="1440" height="800" viewBox="0 0 1440 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<rect vector-effect="non-scaling-stroke" x="0.5" y="0.5" width="1439" height="799" fill="#010203"/>
+
+<line vector-effect="non-scaling-stroke" x1="39" y1="800" x2="39" y2="-0.000610352" stroke="#2070FA" stroke-width="1"/>
+<line vector-effect="non-scaling-stroke" x1="200" y1="800" x2="200" y2="-0.000610352" stroke="#2070FA" stroke-width="1"/>
+<line vector-effect="non-scaling-stroke" x1="400" y1="800" x2="400" y2="-0.000610352" stroke="#2070FA" stroke-width="1"/>
+<line vector-effect="non-scaling-stroke" x1="599" y1="800" x2="599" y2="-0.000610352" stroke="#2070FA" stroke-width="1"/>
+<line vector-effect="non-scaling-stroke" x1="799" y1="800" x2="799" y2="-0.000610352" stroke="#2070FA" stroke-width="1"/>
+<line vector-effect="non-scaling-stroke" x1="240" y1="800" x2="240" y2="-0.000610352" stroke="#2070FA" stroke-width="1"/>
+<line vector-effect="non-scaling-stroke" x1="440" y1="800" x2="440" y2="-0.000610352" stroke="#2070FA" stroke-width="1"/>
+<line vector-effect="non-scaling-stroke" x1="639" y1="800" x2="639" y2="-0.000610352" stroke="#2070FA" stroke-width="1"/>
+<line vector-effect="non-scaling-stroke" x1="839" y1="800" x2="839" y2="-0.000610352" stroke="#2070FA" stroke-width="1"/>
+<line vector-effect="non-scaling-stroke" x1="1000" y1="800" x2="1000" y2="-0.000610352" stroke="#2070FA" stroke-width="1"/>
+<line vector-effect="non-scaling-stroke" x1="1201" y1="800" x2="1201" y2="-0.000610352" stroke="#2070FA" stroke-width="1"/>
+<line vector-effect="non-scaling-stroke" x1="1040" y1="800" x2="1040" y2="-0.000610352" stroke="#2070FA" stroke-width="1"/>
+<line vector-effect="non-scaling-stroke" x1="1241" y1="800" x2="1241" y2="-0.000610352" stroke="#2070FA" stroke-width="1"/>
+<line vector-effect="non-scaling-stroke" x1="1399" y1="800" x2="1399" y2="-0.000610352" stroke="#2070FA" stroke-width="1"/>
+
+<rect vector-effect="non-scaling-stroke" x="0.5" y="0.5" width="1439" height="799" stroke="#C6C6D6"/>
+<defs>
+</defs>
+</svg>

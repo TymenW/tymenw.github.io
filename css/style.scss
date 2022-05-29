@@ -1,0 +1,160 @@
+$color-red: rgba(240,26,32,1);
+$color-black: rgba(1,2,3,1);
+$color-grey: rgba(34,38,38,1);
+$color-text-on-black: rgba(198,198,214,1);
+$color-white: rgba(255,255,255,1);
+$color-background-white: rgba(237,237,237,1);
+$color-text-on-white: rgba(61,71,85,1);
+$color-blue: rgba(32,112,250,1);
+@mixin font-h-1 {
+	font-size:48px;
+	font-family:"Inter";
+	font-weight:700;
+	line-height:64px;
+}
+@mixin font-h-2 {
+      margin:0px;
+  padding-bottom: 12px;
+	font-size:32px;
+	font-family:"Inter";
+	font-weight:700;
+	line-height:32px;
+}
+@mixin font-h-3 {
+      margin:0px;
+	font-size:20px;
+	font-family:"Inter";
+	font-weight:700;
+	line-height:26px;
+}
+@mixin font-sub {
+      margin:0px;
+    padding-bottom: 24px;
+	font-size:22px;
+	font-family:"Inter";
+	font-weight:400;
+	line-height:32px;
+}
+@mixin font-body {
+	font-size:17px;
+	font-family:"Inter";
+	font-weight:400;
+	line-height:26px;
+}
+@mixin font-button {
+	font-size:14px;
+	font-family:"Inter";
+	font-weight:800;
+	line-height:16px;
+  letter-spacing: 0.03em;
+}
+
+// css
+button{
+  background: #F01A20;
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  padding: 20px 64px;
+  border: none;
+
+  flex: none;
+  order: 0;
+  align-self: center;
+  color: #fff;
+ transition: all .12s ease-in-out;
+  @include font-button;
+}
+
+html{
+  background-color: $color-grey;
+}
+
+.sur{
+      color: $color-red;
+}
+
+h1{
+  @include font-h-1;
+  color: $color-white;
+}
+
+h2{
+    @include font-h-2;
+      color: $color-white;
+}
+
+h4{
+  @include font-sub;
+  color: $color-white;
+}
+
+.content {
+  width: calc(100vw - 80px);
+  margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 40px;
+      margin-top: 56px;
+}
+
+.introduction{
+      grid-column: 2 / 4;
+}
+
+
+// boxes
+
+.boxes{
+  display: contents;
+
+  div{
+      background-color: $color-black;
+      padding: 44px 40px 28px 40px;
+    }
+    h4{
+      @include font-sub;
+      color: $color-text-on-black;
+    }
+}
+
+// .boxes div:nth-child(odd) {
+//   grid-column: 2 / 4;
+// }
+//
+// .boxes div:nth-child(even) {
+//   grid-column: 4 / 6;
+// }
+
+// sidebar
+.sidebar{
+      grid-column: 1;
+      height: 100%;
+      background: $color-black;
+
+
+}
+
+.box1 {
+    grid-column: 1;
+    background-color: red;
+
+}
+
+.box2 {
+    grid-column: 2;
+    background-color: green;
+}
+
+.box3 {
+    grid-column: 3;
+    background-color: blue;
+}
+.box4 {
+    grid-column: 4;
+    background-color: blue;
+}
+.box5 {
+    grid-column: 5;
+    background-color: blue;
+}

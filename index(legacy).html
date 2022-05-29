@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Oye! | Design System</title>
+
+<link rel="stylesheet" type="text/css" href="css/variables.css">
+<link rel="stylesheet" type="text/css" href="css/style2.css">
+
+ <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="utf-8" />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script type="text/javascript">
+
+window.onload = function() {
+  $(".btn_scale").bind("webkitAnimationEnd mozAnimationEnd animationEnd", function() {
+    $(this).removeClass("active")
+  })
+
+  $(".btn_scale").mousedown(function() {
+    $(this).addClass("active");
+  })
+
+
+}
+
+</script>
+
+
+</head>
+  <body>
+    <div class="sidebar">
+    <a href="index.html"><img src="img/logo_oye.png"/></a>
+
+
+      <nav>
+        <ul>
+          <li><b>Overview</b></li>
+        </ul>
+
+              <ul>
+                <li><b>Components</b></li>
+
+                <li><a href="#button">Buttons</a></li>
+
+                <li><a href="#input">Inputs</a></li>
+
+                <li><a href="#elements">Elements</a></li>
+
+                <li><a href="#selectors">Selectors</a></li>
+              </ul>
+
+              <ul>
+                <li><b>Aesthetics</b></li>
+
+                <li><a href="#butto1n">Color usage</a></li>
+
+                <li><a href="#input">Typography</a></li>
+
+                <li><a href="#elements">Style elements</a>  </li>
+              </ul>
+
+              <ul>
+                <li><b>Composition</b></li>
+
+                <li><a href="#button1">Layout</a></li>
+              </ul>
+
+    </nav>
+
+      </div>
+<div class="content">
+
+
+  <section class="introduction home">
+    <h4>A design system build for TTA International</h4>
+    <h1>Oye!<br/>Design System</h1>
+    <h4>The Oye! Design System is created for TTA International by <b>Tymen Wander.</b></h4>
+  </section>
+
+<div class="boxes">
+
+  <div>
+    <h2>Components</h2>
+    <h4>
+Here you can find components where the Oye! design system is made of.
+    </h4>
+    <button type="button" onclick="window.location.href='components.html';" class="button btn_primary btn_scale">Find the compontents</button>
+    </div>
+
+    <div>
+      <h2>Color and typography</h2>
+      <h4>
+  Here you can find components where the Oye! design system is made of.
+      </h4>
+      <button class="button btn_primary btn_scale">Primary Button</button>
+      </div>
+      <div>
+        <h2>Composition</h2>
+        <h4>
+    Here you can find components where the Oye! design system is made of.
+        </h4>
+        <button class="button btn_primary btn_scale">Primary Button</button>
+        </div>
+        <div>
+          <h2>Design philosophy</h2>
+          <h4>
+      Here you can find components where the Oye! design system is made of.
+          </h4>
+          <button class="button btn_primary btn_scale">Primary Button</button>
+          </div>
+
+      </div>
+<hr />
+
+  </body>
+</html>
